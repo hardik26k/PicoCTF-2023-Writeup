@@ -12,7 +12,9 @@ Also I have yet to fill in all the challenges, currently working on it.
 
 # Cryptography
 
-<!---  [HideToSee](https://github.com/noamgariani11/PicoCTF-2023-Writeup/tree/main/Cryptography/HideToSee/HideToSee.md) ---> 
+[HideToSee](https://github.com/noamgariani11/PicoCTF-2023-Writeup/tree/main/Cryptography/HideToSee/HideToSee.md)
+
+[ReadMyCert](https://github.com/noamgariani11/PicoCTF-2023-Writeup/blob/main/Cryptography/ReadMyCert/ReadMyCert.md)
 
 [rotation](https://github.com/noamgariani11/PicoCTF-2023-Writeup/tree/main/Cryptography/rotation/rotation.md)
 
@@ -44,9 +46,9 @@ Also I have yet to fill in all the challenges, currently working on it.
 
 [who is it](https://github.com/noamgariani11/PicoCTF-2023-Writeup/tree/main/Forensics/who%20is%20it/who_is_it.md)
 
-<!--- [FindAndOpen](https://github.com/noamgariani11/PicoCTF-2023-Writeup/tree/main/Forensics/FindAndOpen/FindAndOpen.md) --->
+[FindAndOpen](https://github.com/noamgariani11/PicoCTF-2023-Writeup/tree/main/Forensics/FindAndOpen/FindAndOpen.md)
 
-<!--- [MSB](https://github.com/noamgariani11/PicoCTF-2023-Writeup/tree/main/Forensics/MSB/MSB.md) --->
+[MSB](https://github.com/noamgariani11/PicoCTF-2023-Writeup/tree/main/Forensics/MSB/MSB.md)
 
 <!--- [Invisible WORDs](https://github.com/noamgariani11/PicoCTF-2023-Writeup/tree/main/Forensics/Invisible%20WORDs) --->
 
@@ -64,12 +66,14 @@ Also I have yet to fill in all the challenges, currently working on it.
 
 [useless](https://github.com/noamgariani11/PicoCTF-2023-Writeup/tree/main/General%20Skills/useless/useless.md)
 
-<!--- [Special](https://github.com/noamgariani11/PicoCTF-2023-Writeup/tree/main/General%20Skills/Special/Special.md) --->
+[Special](https://github.com/noamgariani11/PicoCTF-2023-Writeup/tree/main/General%20Skills/Special/Special.md)
 
-<!--- [Specialer](https://github.com/noamgariani11/PicoCTF-2023-Writeup/tree/main/General%20Skills/Specialer/Specialer.md) --->
+[Specialer](https://github.com/noamgariani11/PicoCTF-2023-Writeup/tree/main/General%20Skills/Specialer/Specialer.md)
 
 [Rules_2023](https://github.com/noamgariani11/PicoCTF-2023-Writeup/blob/main/General%20Skills/Rules_2023/Rules_2023.md)
 
-<!--- # Binary Explotation --->
+# Binary Explotation
 
+[babygame01](https://github.com/noamgariani11/PicoCTF-2023-Writeup/blob/main/Binary%20Explotation/babygame01/babygame01.md)
 
+[two-sum](https://github.com/noamgariani11/PicoCTF-2023-Writeup/blob/main/Binary%20Explotation/two-sum/two-sum.md)
