@@ -1,5 +1,3 @@
-<meta name="google-site-verification" content="04ouqUxkT9ApJJuDWkyyILZ3ID6BnSphJpcHsYtbkZ0" />
-
 # PicoCTF 2023 Writeup
 
 All flags are partially redacted with "..." so you do the process on your own. 
