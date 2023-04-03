@@ -36,7 +36,7 @@ Also I have yet to fill in all the challenges, currently working on it.
 
 <!--- [Virtual Machine 1](https://github.com/noamgariani11/PicoCTF-2023-Writeup/tree/main/Reverse%20Engineering/Virtual%20Machine%201) --->
 
-<!--- [Ready Gladiator 2](https://github.com/noamgariani11/PicoCTF-2023-Writeup/tree/main/Reverse%20Engineering/Ready%20Gladiator%202) --->
+[Ready Gladiator 2](https://github.com/noamgariani11/PicoCTF-2023-Writeup/tree/main/Reverse%20Engineering/Ready%20Gladiator%202)
 
 # Forensics
 
