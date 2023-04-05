@@ -14,5 +14,6 @@ I used this [website](https://corewar.co.uk/) for refrence in trying different w
 
 Then I went on to try other startegies and eventually came across the [bomber](https://corewar.co.uk/bomber.htm) strategy. The first 3 weren't very good (around 50/60 wins) but the fourth one [Herem/Scimitar](https://corewar.co.uk/heremscimitar.htm) was the one that gave 100 wins instanly no need to try mutliple times.
 
+All you have to do is modify the imp.red file to include the herem/scimitar strategy then run this command: ```nc saturn.picoctf.net 54217 < imp.red```. 
 
 Flag: ```picoCTF{d3m0n_3xpu...24e}```
