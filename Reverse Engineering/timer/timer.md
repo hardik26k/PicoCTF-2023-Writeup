@@ -27,6 +27,7 @@ sudo apt install default-jdk
 ```
 git clone https://github.com/skylot/jadx.git
 cd jadx
+./gradlew dist
 alias jadx-gui=’~/<directoryName>/jadx/build/jadx/bin/jadx-gui’
 cd ..
 ```
