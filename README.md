@@ -6,6 +6,7 @@ Currently working on completing the picoCTF 2023 writeup for all of the challeng
 
 * [findme](https://github.com/noamgariani11/PicoCTF-2023-Writeup/tree/main/Web%20Explotation/findme/findme.md)
 * [MatchTheRegex](https://github.com/noamgariani11/PicoCTF-2023-Writeup/tree/main/Web%20Explotation/MatchTheRegex/MatchTheRegex.md)
+* [More SQLi](https://github.com/noamgariani11/PicoCTF-2023-Writeup/blob/main/Web%20Explotation/More%20SQLi/MoreSQLi.md)
 
 # Cryptography
 
