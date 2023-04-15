@@ -108,11 +108,11 @@ Now I went back to the .bmp files and downdloaded all 4 different bmp images in 
 * /3/home/yone/gallery/3.bmp
 * /3/home/yone/gallery/7.bmp
 
-I clicked each image, then clicked export. This downdloaded the files to the /Downloads folder.
+I clicked each image, then clicked export. This downloaded the files to the /Downloads folder.
 
 ![image](https://user-images.githubusercontent.com/91398631/232168502-94b31610-5c52-4f92-a4bc-59ee218120d4.png)
   
-Now I would open up another terminal to analyse these images. I then navigated to the downloads folder and moved all of the files to my working directory for this challenge. You could just keep it in the downdloads if you wanted to.
+Now I would open up another terminal to analyse these images. I then navigated to the downloads folder and moved all of the files to my working directory for this challenge. You could just keep it in the downloads if you wanted to.
   
 ```mv vol4-3.home.yone.gallery.[1237].bmp (../[filepath])```
 
