@@ -12,6 +12,8 @@ Note: if you are using the webshell, download and extract the disk image into
 
 This is a large disk image so there will be a lot of documentation so as not to miss anything. There are things that come up later on that you can match with earlier documentation.
 
+* [Findings](https://github.com/noamgariani11/PicoCTF-2023-Writeup/blob/main/Forensics/UnforgottenBits/UnforgottenBits.md#getting-the-disk-into-autopsy)
+
 # Getting the disk into Autopsy
 
 Start with getting the file:
