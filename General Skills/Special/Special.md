@@ -26,7 +26,7 @@ There were many things I tried and found to partially work, but here is the path
 |${parameter=ls blargh} | flag.txt |
 |${parameter=cat < blargh/flag.txt} | This gave the flag |
 
-This took a long time of testing different commands and seeing what workds. I'm sure there are many ways to do this as I stumbled upon other potential ways to complete this challenge but ended up going with this. 
+This took a long time of testing different commands and seeing what works. I'm sure there are many ways to do this as I stumbled upon other potential ways to complete this challenge but ended up going with this. 
 
 Flag: ```picoCTF{5p311ch3ck_15_7h3_w0...35}```
 
